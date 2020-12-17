@@ -13,5 +13,8 @@
 
 ## How to install MILE transliterator on your Google Chrome?
 * Open Google Chrome and open the web-page of other language that you want to see in the script of your choice.
+![Tamil web page](OtherLanguageWebpage.jpg?raw=true "Tamil web page")
 * Right click on the page and select `Transliterate to <target-script>`
+![Run MILE Transliterator](Run_MILE_Transliterator.jpg?raw=true "Run MILE Transliterator")
 * Your web page is reloaded and shown in the script of your choice!
+![Tamil web page transliterated to Kannada script](TransliteratedWebPage.jpg?raw=true "Tamil web page transliterated to Kannada script")
