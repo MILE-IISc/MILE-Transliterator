@@ -2,7 +2,7 @@
 
 ## How to install MILE Transliterator on your Google Chrome?
 * Clone this repo on to your machine OR [download the zip file](https://github.com/MILE-IISc/MILE-Transliterator/archive/main.zip) and extract locally.
-* Open chrome://extensions/ in your Google Chrome.
+* Open `chrome://extensions/` in your Google Chrome.
 * Select `Developer Mode` at the top right corner.
 * Click on `Load unpacked` button at the top left corner.
 * Browse to the folder where you cloned this repo or extracted the [zip file](https://github.com/MILE-IISc/MILE-Transliterator/archive/main.zip).
